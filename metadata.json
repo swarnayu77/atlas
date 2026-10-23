@@ -1,0 +1,6 @@
+{
+  "name": "ATLAS — Scientific Discovery Engine",
+  "description": "AI-powered cross-disciplinary scientific intelligence engine that uncovers unexpected, evidence-backed connections, research gaps, and verifiable hypotheses across scientific literature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
